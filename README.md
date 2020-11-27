@@ -4,9 +4,7 @@
 
 <hr />
 
-<p align='left'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=iamdarshan7&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
+   
 
 <h2>
 I'm a Student, Developer, and Anything You Wanna Call Me!!
@@ -25,6 +23,10 @@ I'm a Student, Developer, and Anything You Wanna Call Me!!
 - ⚡ Fun fact: I love to Watch Movies / Listen Music / play Cricket / Analyze Football
 </p>  
 
+<p>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdarshan7&layout=compact" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=iamdarshan7&hide=stars&show_icons=true&count_private=true&theme=dark" width="350"></a>
+<p>
 
 <h2>
    To Connect with me
