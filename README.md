@@ -2,9 +2,6 @@
    Hi there 👋I'm Darshan 👨‍💻
 </h1>
 
-<hr />
-
-   
 
 <h2>
 I'm a Student, Developer, and Anything You Wanna Call Me!!
