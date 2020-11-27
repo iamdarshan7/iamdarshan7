@@ -32,7 +32,7 @@ I'm a Student, Developer, and Anything You Wanna Call Me!!
 
 <p>
     <a href="https://www.facebook.com/thesun0007">
-        <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
     </a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/darshan-thapa-1b5b041aa">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
