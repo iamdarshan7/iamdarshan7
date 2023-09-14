@@ -14,7 +14,7 @@ I'm a Student, Developer, and Anything You Wanna Call Me!!
 - 👯 I’m looking to collaborate with other developer
 </p>   
 <p>  
-- 🥅 2021 Goals: Built More Web_Apps and Improve My Skills
+- 🥅 2023 Goals: Built More Web_Apps and Improve My Skills
 </p>   
 <p>  
 - ⚡ Fun fact: I love to Watch Movies / Listen Music / play Cricket / Analyze Football
